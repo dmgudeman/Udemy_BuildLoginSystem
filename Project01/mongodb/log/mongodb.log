@@ -50,3 +50,6 @@
 2017-05-18T14:29:39.262-0700 I -        [conn8] end connection 127.0.0.1:56063 (2 connections now open)
 2017-05-18T14:29:42.562-0700 I NETWORK  [thread1] connection accepted from 127.0.0.1:56191 #9 (2 connections now open)
 2017-05-18T14:29:42.570-0700 I NETWORK  [conn9] received client metadata from 127.0.0.1:56191 conn9: { driver: { name: "nodejs", version: "2.2.26" }, os: { type: "Darwin", name: "darwin", architecture: "x64", version: "16.5.0" }, platform: "Node.js v7.1.0, LE, mongodb-core: 2.1.10" }
+2017-05-18T14:36:56.209-0700 I -        [conn9] end connection 127.0.0.1:56191 (2 connections now open)
+2017-05-18T14:43:39.819-0700 I NETWORK  [thread1] connection accepted from 127.0.0.1:59595 #10 (2 connections now open)
+2017-05-18T14:43:39.832-0700 I NETWORK  [conn10] received client metadata from 127.0.0.1:59595 conn10: { driver: { name: "nodejs", version: "2.2.26" }, os: { type: "Darwin", name: "darwin", architecture: "x64", version: "16.5.0" }, platform: "Node.js v7.1.0, LE, mongodb-core: 2.1.10" }

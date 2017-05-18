@@ -1,0 +1,18 @@
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] MongoDB starting : pid=42134 port=27017 dbpath=/Volumes/G-DRIVE/myDirectory/Udemy_BuildLoginSystem/Project01/mongodb/data/db 64-bit host=Davids-MacBook-Pro-3.local
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] db version v3.4.4
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] git version: 888390515874a9debd1b6c5d36559ca86b44babd
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.2k  26 Jan 2017
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] allocator: system
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] modules: none
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] build environment:
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten]     distarch: x86_64
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten]     target_arch: x86_64
+2017-05-18T08:11:00.271-0700 I CONTROL  [initandlisten] options: { storage: { dbPath: "/Volumes/G-DRIVE/myDirectory/Udemy_BuildLoginSystem/Project01/mongodb/data/db", directoryPerDB: true }, systemLog: { destination: "file", path: "/Volumes/G-DRIVE/myDirectory/Udemy_BuildLoginSystem/Project01/mongodb/log/mongodb.log" } }
+2017-05-18T08:11:00.272-0700 E NETWORK  [initandlisten] listen(): bind() failed Address already in use for socket: 0.0.0.0:27017
+2017-05-18T08:11:00.272-0700 E NETWORK  [initandlisten]   addr already in use
+2017-05-18T08:11:00.272-0700 E NETWORK  [initandlisten] Failed to set up sockets during startup.
+2017-05-18T08:11:00.272-0700 E STORAGE  [initandlisten] Failed to set up listener: InternalError: Failed to set up sockets
+2017-05-18T08:11:00.272-0700 I NETWORK  [initandlisten] shutdown: going to close listening sockets...
+2017-05-18T08:11:00.272-0700 I NETWORK  [initandlisten] shutdown: going to flush diaglog...
+2017-05-18T08:11:00.272-0700 I CONTROL  [initandlisten] now exiting
+2017-05-18T08:11:00.272-0700 I CONTROL  [initandlisten] shutting down with code:48
